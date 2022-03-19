@@ -6,5 +6,5 @@
  2.) Downloand the zip file
  3.) Extract the contents and save in a folder of your choice on your machine. 
  4.) Open the file in Eclipse and
- 5.) After clicking on the play button, the instructions on how to run the code show up on the console.  
+ 5.) After clicking on the play button, the results of the code are printed on the console.  
  
