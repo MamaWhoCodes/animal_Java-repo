@@ -1,4 +1,5 @@
-﻿animal_Java project. 
+﻿Java 
+ Project name: animal_Java  
  The Day12_Animal.java file contains the source code for illustrating java concepts such as objects and encapsulation. 
  It is originally from Hackerrank Day 12.
  To copy the code, and view it in on the Eclipse platform :
